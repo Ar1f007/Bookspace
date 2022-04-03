@@ -1,5 +1,10 @@
+import { Navbar } from './components';
 function App() {
-  return <div className="App">Hello World!</div>;
+  return (
+    <div className="container mx-auto">
+      <Navbar />
+    </div>
+  );
 }
 
 export default App;

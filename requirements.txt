@@ -1,6 +1,6 @@
 1. Meaningful Heading
 2. Should have a picture on the hero section
-3. Should have some meaning text underneath the heading
+3. Should have some meaningful description underneath the heading
 4. Button(optional)
 5. Navigation bar
 6. Customer reviews
@@ -10,8 +10,8 @@
 7. NotFound 404 page route
 8. Make sure to fix page reload error of netlify
 9. On Dashboard page show at-least two charts
-10. Change website title name
-11. Favicon (optional) 
+✅ 10. Change website title name
+✅ 11. Favicon (optional) 
 
 Bonus:
 1. Write project name, include project live link on ReadMe file
