@@ -4,7 +4,7 @@ import img from '../assets/not-found.svg';
 
 export const NotFound = () => {
   return (
-    <div className="hero bg-base-200 py-24">
+    <div className="hero bg-base-200 h-screen">
       <div className="hero-content text-center">
         <div className="max-w-md">
           <img src={img} alt="404" className="mb-10" />
