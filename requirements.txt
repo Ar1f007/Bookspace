@@ -9,13 +9,13 @@
     3. Reviewer image (optional)
 ✅7. NotFound 404 page route
 8. Make sure to fix page reload error of netlify
-9. On Dashboard page show at-least two charts
+✅9. On Dashboard page show at-least two charts
 ✅ 10. Change website title name
 ✅ 11. Favicon (optional) 
 
 Bonus:
-1. Write project name, include project live link on ReadMe file
-2. Add project features on readMe file
+✅1. Write project name, include project live link on ReadMe file
+✅2. Add project features on readMe file
 ✅3. Implement Destructing
 ✅4. Implement custom hook for review
 ✅5. Show 3 reviews on home page
@@ -25,4 +25,4 @@ Bonus:
     Q. Inline, block and inline-block elements differences.
 Optional:
 ✅1. Indicator on which route is currently active
-2. Responsive for mobile devices
+✅2. Responsive for mobile devices

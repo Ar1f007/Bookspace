@@ -21,7 +21,7 @@ export const Reviews = () => {
         </h2>
         <p className="py-2 px-6 border-2">Avg. Ratings: {avgRatings.toFixed(1)}/5</p>
       </div>
-      <div className="grid md:grid-cols-3 gap-y-10 py-5 mt-10 justify-items-center">
+      <div className="grid lg:grid-cols-3 gap-y-10 py-5 mt-10 justify-items-center">
         {reviews.map((review) => (
           <ReviewItem key={review.id} review={review} />
         ))}
