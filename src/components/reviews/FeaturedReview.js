@@ -1,7 +1,6 @@
-import { useReviews } from '../hooks/useReviews';
-import { ReviewItem } from '../components';
+import { useReviews } from '../../hooks/useReviews';
+import { ReviewItem, Skeleton } from '..';
 import { Link } from 'react-router-dom';
-import { Skeleton } from './Skeleton';
 
 export const FeaturedReview = () => {
   const { reviews, loading } = useReviews();

@@ -1,5 +1,4 @@
-import { ReviewItem } from '../components';
-import { Skeleton } from '../components/Skeleton';
+import { ReviewItem, Skeleton } from '../components';
 import { useReviews } from '../hooks/useReviews';
 
 export const Reviews = () => {
@@ -20,7 +19,7 @@ export const Reviews = () => {
         <h2 className="text-2xl lg:text-3xl border-b-2 py-3 max-w-fit">
           Total Reviews ({reviews.length})
         </h2>
-        <p>Avg Ratings: {avgRatings.toFixed(1)}/5</p>
+        <p className="py-2 px-6 border-2">Avg. Ratings: {avgRatings.toFixed(1)}/5</p>
       </div>
       <div className="grid md:grid-cols-3 gap-y-10 py-5 mt-10 justify-items-center">
         {reviews.map((review) => (
