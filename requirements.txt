@@ -8,7 +8,7 @@
     2. Reviews should consist: name, review text, rating
     3. Reviewer image (optional)
 ✅7. NotFound 404 page route
-8. Make sure to fix page reload error of netlify
+✅8. Make sure to fix page reload error of netlify
 ✅9. On Dashboard page show at-least two charts
 ✅ 10. Change website title name
 ✅ 11. Favicon (optional) 
