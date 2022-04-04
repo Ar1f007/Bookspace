@@ -1,4 +1,6 @@
 import { Navbar } from './layout/Navbar';
-import { Hero } from './Hero';
 import { Footer } from './layout/Footer';
-export { Navbar, Hero, Footer };
+import { Hero } from './Hero';
+import { ReviewItem } from './ReviewItem';
+
+export { Navbar, Hero, Footer, ReviewItem };

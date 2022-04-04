@@ -1,13 +1,13 @@
-1. Meaningful Heading
-2. Should have a picture on the hero section
-3. Should have some meaningful description underneath the heading
-4. Button(optional)
-5. Navigation bar
+✅1. Meaningful Heading
+✅2. Should have a picture on the hero section
+✅3. Should have some meaningful description underneath the heading
+✅4. Button(optional)
+✅5. Navigation bar
 6. Customer reviews
     1. Click on see all reviews should take user to new page
     2. Reviews should consist: name, review text, rating
     3. Reviewer image (optional)
-7. NotFound 404 page route
+✅7. NotFound 404 page route
 8. Make sure to fix page reload error of netlify
 9. On Dashboard page show at-least two charts
 ✅ 10. Change website title name
@@ -16,13 +16,13 @@
 Bonus:
 1. Write project name, include project live link on ReadMe file
 2. Add project features on readMe file
-3. Implement Destructing
+✅3. Implement Destructing
 4. Implement custom hook for review
 5. Show 3 reviews on home page
 6. Answer minimum two questions: 
     Q. What is context Api? What is the purpose of it?
     Q. What is semantic tag?
-    Q. Inline-block and inline-block elements differences.
+    Q. Inline, block and inline-block elements differences.
 Optional:
-1. Indicator on which route is currently active
+✅1. Indicator on which route is currently active
 2. Responsive for mobile devices

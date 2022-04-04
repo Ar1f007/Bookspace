@@ -8,7 +8,7 @@ export const NotFound = () => {
       <div className="hero-content text-center">
         <div className="max-w-md">
           <img src={img} alt="404" className="mb-10" />
-          <h3 className="text-5xl font-bold">
+          <h3 className="text-4xl font-bold">
             Ohh! <br /> Page not found
           </h3>
           <p className="py-6">We can't seem to find the page you're looking for</p>
