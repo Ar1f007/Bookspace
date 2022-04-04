@@ -19,7 +19,7 @@ Bonus:
 ✅3. Implement Destructing
 ✅4. Implement custom hook for review
 ✅5. Show 3 reviews on home page
-6. Answer minimum two questions: 
+✅6. Answer minimum two questions: 
     Q. What is context Api? What is the purpose of it?
     Q. What is semantic tag?
     Q. Inline, block and inline-block elements differences.

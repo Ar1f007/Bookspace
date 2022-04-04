@@ -2,13 +2,13 @@ export const Blog = () => {
   return (
     <div className="max-w-4xl py-10 mx-auto">
       <div
-        tabindex="0"
-        class="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box"
+        tabIndex="0"
+        className="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box mb-5"
       >
-        <div class="collapse-title text-xl font-medium">
+        <div className="collapse-title text-xl font-medium">
           What is context Api? What is the purpose of it?
         </div>
-        <div class="collapse-content">
+        <div className="collapse-content">
           <p>
             <b>What is it:</b> According to React documentation, "Context provides a way to pass
             data through the component tree without having to pass props down manually at every
@@ -26,11 +26,11 @@ export const Blog = () => {
       </div>
 
       <div
-        tabindex="0"
-        class="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box"
+        tabIndex="0"
+        className="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box mb-5"
       >
-        <div class="collapse-title text-xl font-medium">What is Semantic tag?</div>
-        <div class="collapse-content">
+        <div className="collapse-title text-xl font-medium">What is Semantic tag?</div>
+        <div className="collapse-content">
           <p>
             The term "Semantic" refers to the meaning of a piece of code. In HTML, a semantic tag is
             used to describe what the content inside is about. For example, <em>&lt;nav&gt;</em> tag
@@ -43,13 +43,13 @@ export const Blog = () => {
       </div>
 
       <div
-        tabindex="0"
-        class="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box"
+        tabIndex="0"
+        className="collapse collapse-arrow border border-base-300 bg-base-100 rounded-box"
       >
-        <div class="collapse-title text-xl font-medium">
+        <div className="collapse-title text-xl font-medium">
           State the difference between inline, block and inline-block elements.
         </div>
-        <div class="collapse-content">
+        <div className="collapse-content">
           <p>
             <b>
               <em>inline:</em>
