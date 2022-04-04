@@ -16,6 +16,7 @@ export const Dashboard = () => {
         <h2 className="text-3xl text-center mb-10 text-[#2EB086]">Month Wise Sell</h2>
         <Linechart data={data} />
       </div>
+
       <div className="grid lg:grid-cols-2 gap-6">
         <div>
           <h2 className="text-3xl text-center mb-10">
@@ -24,6 +25,7 @@ export const Dashboard = () => {
           </h2>
           <Barchart data={data} />
         </div>
+
         <div>
           <h2 className="text-3xl text-center mb-10">
             <span className="text-[#8E05C2]">Investment</span> vs{' '}

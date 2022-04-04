@@ -11,6 +11,7 @@ export const FeaturedReview = () => {
 
   return (
     <section className="py-10 px-3">
+      <h2 className="text-3xl text-center py-5">Featured Reviews</h2>
       <div className="grid md:grid-cols-3 justify-items-center gap-10 py-5 mt-10">
         {reviews.slice(0, 3).map((review) => (
           <ReviewItem key={review.id} review={review} />
